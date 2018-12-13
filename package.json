@@ -1,0 +1,12 @@
+{
+  "name": "travis-ci",
+  "version": "1.0.0",
+  "description": "ci travis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  	"test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
